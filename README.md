@@ -1,6 +1,6 @@
-## Maíra Kaminski
+# Maíra Kaminski
 
-### ✨ Olá Devs!! ✨
+## ✨ Olá Devs!! ✨
 
 
 Eu sou a Maíra, tenho 35 anos, atualmente moro em São Paulo, sou formada e mestra em História, doutora Interdisciplinar em Ciências Humanas, em transição de carreira.
@@ -12,7 +12,7 @@ Hoje estou me especializando em ***React.js*** sempre em busca de aprimorar os c
 </br>
 </br>
 
-### 🖥️ Tecnologias e Ferramentas
+## 🖥️ Tecnologias e Ferramentas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
            width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" />
@@ -23,6 +23,14 @@ Hoje estou me especializando em ***React.js*** sempre em busca de aprimorar os c
 <img src="/img/gifCachorro.gif" aling="center"> </p>          
 
 </br>
+
+👀 Curiosa, criativa e sedenta por conhecimento.
+
+🐶🐽🐱🐔🐮 Apaixonada por animais! 🌱 Vegan.
+
+🏢 Buscando uma oportunidade de trabalho na área de programação!
+
+</br> 
 
 ## Contatos:
 <div> 
