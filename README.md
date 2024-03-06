@@ -1,6 +1,6 @@
 ## Maíra Kaminski
 
-### Olá Devs!!
+### ✨ Olá Devs!! ✨
 
 
 Eu sou a Maíra, tenho 35 anos, atualmente moro em São Paulo, sou formada e mestra em História, doutora Interdisciplinar em Ciências Humanas, em transição de carreira.
@@ -10,6 +10,8 @@ Me apaixonei pela tecnologia depois de participar de uma imersão da **Alura** e
 Hoje estou me especializando em ***React.js*** sempre em busca de aprimorar os conhecimentos e expandir os horizontes desse universo incrível que é a tecnologia.
 
 
+### 🖥️ Tecnologias e Ferramentas
+<i class="devicon-javascript-plain colored"></i> 
 
 <!--
 **maikaminski/maikaminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
