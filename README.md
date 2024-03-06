@@ -17,9 +17,12 @@ Hoje estou me especializando em ***React.js*** sempre em busca de aprimorar os c
 
 <p align="center">
 <img src="/img/gifCachorro.gif" aling="center"> </p>          
-          
-<a href="https://instagram.com/maikaminski" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+## Contatos:
+<div> 
+<a href="https://www.linkedin.com/in/maikaminski" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/maikaminski" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
           
 
 <!--
