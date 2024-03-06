@@ -1,8 +1,7 @@
-## >Maíra Kaminski
+## Maíra Kaminski
 
 ### Olá Devs!!
 
-<p style="color:blue">Make this text blue.</p>
 
 Eu sou a Maíra, tenho 35 anos, atualmente moro em São Paulo, sou formada e mestra em História, doutora Interdisciplinar em Ciências Humanas, em transição de carreira.
 
