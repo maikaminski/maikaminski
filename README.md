@@ -9,7 +9,7 @@ Me apaixonei pela tecnologia depois de participar de uma imersão da **Alura** e
 
 Hoje estou me especializando em ***React.js*** sempre em busca de aprimorar os conhecimentos e expandir os horizontes desse universo incrível que é a tecnologia.
 
-<a href="https://tenor.com/bg7pJ.gif"></a>
+
 
 <!--
 **maikaminski/maikaminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
