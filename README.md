@@ -1,4 +1,4 @@
-## Maíra Kaminski
+## <font color="red">Maíra Kaminski</font>
 
 ### Olá Devs!!
 
@@ -8,7 +8,7 @@ Me apaixonei pela tecnologia depois de participar de uma imersão da **Alura** e
 
 Hoje estou me especializando em ***React.js*** sempre em busca de aprimorar os conhecimentos e expandir os horizontes desse universo incrível que é a tecnologia.
 
-<div class="tenor-gif-embed" data-postid="16434065" data-share-method="host" data-aspect-ratio="0.5625" data-width="100%"><a href="https://tenor.com/view/business-dog-typing-dog-cute-pet-busy-working-gif-16434065">Business Dog Typing Dog GIF</a>from <a href="https://tenor.com/search/business+dog-gifs">Business Dog GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 <!--
 **maikaminski/maikaminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
