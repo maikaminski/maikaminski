@@ -7,7 +7,7 @@ Eu sou a Maíra, tenho 35 anos, atualmente moro em São Paulo, sou formada e mes
 
 Me apaixonei pela tecnologia depois de participar de uma imersão da **Alura** em Front-end.
 
-Hoje estou me especializando em ***React.js*** sempre em busca de aprimorar os conhecimentos e expandir os horizontes desse universo incrível que é a tecnologia.
+Hoje estou me especializando em ***React.js***, em C pela Escola ***42 São Paulo***, e fazendo graduação em ***Análise e Desenvolvimento de Sistemas***. Sempre em busca de aprimorar os conhecimentos e expandir os horizontes desse universo incrível que é a tecnologia.
 
 </br>
 </br>
