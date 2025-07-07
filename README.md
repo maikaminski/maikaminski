@@ -3,7 +3,7 @@
 ## ✨ Olá Devs!! ✨
 
 
-Eu sou a Maíra, tenho 35 anos, atualmente moro em São Paulo, sou formada e mestra em História, doutora Interdisciplinar em Ciências Humanas, em transição de carreira.
+Eu sou a Maíra, tenho 36 anos, atualmente moro em São Paulo, sou formada e mestra em História, doutora Interdisciplinar em Ciências Humanas, em transição de carreira.
 
 Me apaixonei pela tecnologia depois de participar de uma imersão da **Alura** em Front-end.
 
