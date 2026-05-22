@@ -3,11 +3,13 @@
 ## ✨ Olá Devs!! ✨
 
 
-Eu sou a Maíra, tenho 36 anos, atualmente moro em São Paulo, sou formada e mestra em História, doutora Interdisciplinar em Ciências Humanas, em transição de carreira.
+Eu sou a Maíra, tenho 37 anos, atualmente moro em São Paulo, sou formada e mestra em História, doutora Interdisciplinar em Ciências Humanas, em transição de carreira.
 
 Me apaixonei pela tecnologia depois de participar de uma imersão da **Alura** em Front-end.
 
 Hoje estou me especializando em ***React.js***, em ***C#*** com ***.NET***, em C pela Escola ***42 São Paulo***, e fazendo graduação em ***Análise e Desenvolvimento de Sistemas***. Sempre em busca de aprimorar os conhecimentos e expandir os horizontes desse universo incrível que é a tecnologia.
+
+Trabalhando com C# e .NET na Ticket Bnenefícios!
 
 </br>
 </br>
@@ -32,7 +34,6 @@ Hoje estou me especializando em ***React.js***, em ***C#*** com ***.NET***, em C
 
 🐶🐽🐱🐔🐮 Apaixonada por animais! 🌱 Vegan.
 
-🏢 Buscando uma oportunidade de trabalho na área de programação!
 
 </br> 
 
